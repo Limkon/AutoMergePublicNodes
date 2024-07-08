@@ -9,7 +9,7 @@ proxies:
   type: ss
 - alterId: 64
   cipher: auto
-  name: '3,11|广东省 移动 #1'
+  name: '3,11,17|🇨🇳_CN_中国 #1'
   network: tcp
   port: 54882
   server: 183.240.235.162
